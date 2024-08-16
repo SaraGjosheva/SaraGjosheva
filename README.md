@@ -17,7 +17,7 @@ I am driven by a fervent passion for continuous learning and professional growth
 - 📫 How to reach me: [Email](mailto:sara_gjosheva@yahoo.com) | [LinkedIn](https://www.linkedin.com/in/sara-gjosheva)
 
 ## Skills
-- 📚 **Languages**: Java, C++, SQL, XML, HTML, CSS, SASS
+- 📚 **Languages**: Java, JavaScript C++, SQL, XML, HTML, CSS, SASS
 - 🛠️ **Tools**: Selenium, TestNG, JIRA, IntelliJ IDEA, Postman, JMeter, Git, Visual Studio Code, Bootstrap
 
 ## Projects 
