@@ -11,7 +11,7 @@ My ability to produce detailed bug reports contributes to the swift resolution o
 
 I am driven by a fervent passion for continuous learning and professional growth.
 
-- 🔭 I’m currently working as a freelance manual tester on mobile apps. For **Vantis | KHK und Herzinfarkt**, a health app for managing coronary heart disease and heart attack recovery, I focus on extensive manual testing, UI/UX optimization, and bug tracking to ensure a seamless user experience. Similarly, with **Vantis | Bluthochdruck**, an app designed for high blood pressure management, my role includes rigorous feature validation, performance assessment, and quality assurance to enhance stability and effectiveness.
+- 🔭 I’m currently working as a freelance manual tester on mobile apps. For [**Vantis | KHK und Herzinfarkt**](#), a health app for managing coronary heart disease and heart attack recovery, I focus on extensive manual testing, UI/UX optimization, and bug tracking to ensure a seamless user experience. Similarly, with [**Vantis | Bluthochdruck**](#), an app designed for high blood pressure management, my role includes rigorous feature validation, performance assessment, and quality assurance to enhance stability and effectiveness.
 - 🌱 I’m currently studying to become a full-stack developer.
 - 💬 Ask me about test automation, manual testing strategies, or improving software quality.
 - 📫 How to reach me: [Email](mailto:sara_gjosheva@yahoo.com) | [LinkedIn](https://www.linkedin.com/in/sara-gjosheva)
