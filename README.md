@@ -21,7 +21,7 @@ I am driven by a fervent passion for continuous learning and professional growth
 - 🛠️ **Tools**: Selenium, TestNG, JIRA, IntelliJ IDEA, Postman, JMeter, Git, Visual Studio Code, Bootstrap
 
 ## Projects 
-- [QA Projects](#) - A collection of my quality assurance projects, showcasing my experience in both manual and automated testing.
+- [QA Projects](https://github.com/SaraGjosheva/QA-Projects) - A collection of my quality assurance projects, showcasing my experience in both manual and automated testing.
 
 ## Let's Connect!
 Feel free to reach out if you'd like to collaborate on a project or discuss anything related to QA, automation, or technology.
