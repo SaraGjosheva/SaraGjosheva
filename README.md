@@ -1,29 +1,51 @@
 # 👋 Hi there, I'm Sara Gjosheva 🚀
 
-Welcome to my GitHub profile! 
+Welcome to my GitHub profile!
 
-## About Me 👉
-I'm a certified QA Engineer with a deep passion for software testing and a commitment to maintaining the highest quality standards in every project I work on. My expertise spans both manual and automated testing, with a particular focus on Selenium, which enables me to develop comprehensive test plans and execute test cases with precision.
+## About Me 👉  
+I’m a **QA Automation Lead** and a **Certified Full-Stack Developer**, passionate about crafting high-quality, user-focused software. I work in a **Scrum environment at Descartes & Mauss**, leading automation strategies, designing Selenium-based frameworks, and collaborating closely with developers, designers, and product owners to ensure smooth, reliable releases.
 
-In addition to my strong foundation in functional testing, I excel in performance testing, where I rigorously evaluate system responsiveness and scalability. I'm also proficient in REST API testing, using tools like Postman to ensure both functionality and performance are up to standard.
+I’m driven by the belief that every line of code and every test case should deliver real value to users. As someone who equally loves building features and breaking them, I bridge the gap between development and QA whether I’m automating regression tests, coding backend logic, or pairing to debug tricky issues.
 
-My ability to produce detailed bug reports contributes to the swift resolution of issues, helping teams deliver quality software on time. 
+### A Human-Centered Approach:
+🔍 I **listen first**: understanding user needs and business goals to anticipate issues before they reach production  
+🗣️ I **communicate clearly**: translating technical problems into actionable insights for teams and stakeholders  
+💡 I **innovate continuously**: balancing best practices with curiosity for better, scalable solutions
 
-I am driven by a fervent passion for continuous learning and professional growth.
+- 🔭 Currently working as QA Automation Lead at **Descartes & Mauss**  
+- 💼 Freelance manual tester for mobile health apps (**Vantis | KHK** and **Vantis | Bluthochdruck**)  
+- 🎓 Certified QA Engineer & Certified Full-Stack Developer  
+- 💬 Ask me about QA strategies, test automation frameworks, or web application development  
+- 📫 Reach me at [sara_gjosheva@yahoo.com](mailto:sara_gjosheva@yahoo.com) or connect on [LinkedIn](https://www.linkedin.com/in/sara-gjosheva)
 
-- 🔭 I’m currently working as a freelance manual tester on mobile apps. For [Vantis | KHK und Herzinfarkt](#), a health app for managing coronary heart disease and heart attack recovery, I focus on extensive manual testing, UI/UX optimization, and bug tracking to ensure a seamless user experience. Similarly, with [Vantis | Bluthochdruck](#), an app designed for high blood pressure management, my role includes rigorous feature validation, performance assessment, and quality assurance to enhance stability and effectiveness.
-- 🌱 I’m currently studying to become a full-stack developer.
-- 💬 Ask me about test automation, manual testing strategies, or improving software quality.
-- 📫 How to reach me: [Email](mailto:sara_gjosheva@yahoo.com) | [LinkedIn](https://www.linkedin.com/in/sara-gjosheva)
+---
 
-## Skills
-- 📚 **Languages**: Java, JavaScript, C++, SQL, XML, HTML, CSS, SASS
-- 🛠️ **Tools**: Selenium, TestNG, JIRA, IntelliJ IDEA, Postman, JMeter, Git, Visual Studio Code, Bootstrap
+## 🛠️ Skills  
+**Languages & Markup:** Java · JavaScript · PHP · SQL · HTML5 · CSS3 · SASS  
+**Frameworks & Tools:** Laravel · Tailwind CSS · Bootstrap · Vue.js · Selenium · TestNG · JUnit · Postman · JMeter  
+**Practices & Platforms:** Git · RESTful APIs · MVC Architecture · Agile/Scrum · CI/CD Basics · Bug Reporting · Team Collaboration
 
-## Projects 
-- [QA Projects](https://github.com/SaraGjosheva/QA-Projects) - A collection of my quality assurance projects, showcasing my experience in both manual and automated testing.
+---
 
-## Let's Connect!
-Feel free to reach out if you'd like to collaborate on a project or discuss anything related to QA, automation, or technology.
+## 📁 Featured Projects  
 
-[Email](mailto:sara_gjosheva@yahoo.com) | [LinkedIn](https://www.linkedin.com/in/sara-gjosheva)
+### 🔗 [Full-Stack Projects](https://github.com/SaraGjosheva/Full-Stack-Projects)  
+A growing collection of practical Laravel, PHP, and JavaScript projects demonstrating my skills in backend logic, UI design, database modeling, and secure user authentication.
+
+### 🛠️ Project Management System *(In Progress)*  
+Role-based task tracker with PHP (OOP), MySQL, JavaScript, and Tailwind CSS. Designed the full database schema and implemented real-time task flows, status updates, and secure login.
+
+### 🏆 Kotur Kafe i Film Admin Panel *(Hackathon Winner)*  
+Built with Laravel, Blade, and Vue/AJAX—this admin panel enables Super-Admin/Admin controls, menu and event scheduling, job application workflows with email notifications, and full booking/reservation management.
+
+### 🌍 SKP Logistics Landing Page  
+Responsive landing page using HTML, Bootstrap, and SASS. Cleanly structured and mobile-optimized with embedded Google Maps and social links.
+
+### ✅ [QA Projects](https://github.com/SaraGjosheva/QA-Projects)  
+Automation frameworks, manual test documentation, REST API tests with Postman, and performance testing scripts using JMeter.
+
+---
+
+## 🤝 Let’s Connect!  
+I thrive in environments where **quality is a team effort**. Whether it’s developing a component, testing a feature, or leading a QA strategy. I aim to leave each project more stable, maintainable, and user-friendly than I found it. Let’s build something great together!  
+📧 [sara_gjosheva@yahoo.com](mailto:sara_gjosheva@yahoo.com) · [LinkedIn](https://www.linkedin.com/in/sara-gjosheva)
