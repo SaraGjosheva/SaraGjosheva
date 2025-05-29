@@ -35,7 +35,7 @@ A growing collection of practical Laravel, PHP, and JavaScript projects demonstr
 ### 🛠️ Project Management System *(In Progress)*  
 Role-based task tracker with PHP (OOP), MySQL, JavaScript, and Tailwind CSS. Designed the full database schema and implemented real-time task flows, status updates, and secure login.
 
-### 🏆 Kotur Kafe i Film Admin Panel *(Hackathon Winner)*  
+### 🏆 Kotur Coffee & Movie - Admin Panel *(Hackathon Winner)*  
 Built with Laravel, Blade, and Vue/AJAX—this admin panel enables Super-Admin/Admin controls, menu and event scheduling, job application workflows with email notifications, and full booking/reservation management.
 
 ### 🌍 SKP Logistics Landing Page  
